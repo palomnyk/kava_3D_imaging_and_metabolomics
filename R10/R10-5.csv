@@ -1,0 +1,133 @@
+Metabolite,iGroups,jGroup,P-value,BH adjusted p-value
+Hedycaryol,crown root,stem,1.89056514977784E-06,6.23886499426686E-05
+Tetrahydro-11-methoxyiangonin,crown root,stem,1.8261690347444E-06,6.23886499426686E-05
+Tetrahydro-11-methoxyiangonin,lateral root,stem,1.88668873463327E-06,6.23886499426686E-05
+Desmethoxyyangonin,crown root,stem,7.39574253827663E-07,6.23886499426686E-05
+Hedycaryol,lateral root,stem,3.45928462023673E-06,7.61042616452081E-05
+Dihydromethysticin,crown root,stem,3.383578923694E-06,7.61042616452081E-05
+Flavokavain C,lateral root,stem,5.47573174322582E-06,9.0349573763226E-05
+Pinostrobin,lateral root,stem,5.47573174322582E-06,9.0349573763226E-05
+Kavain,crown root,stem,9.15462049751181E-06,0.000114282062170047
+"Pyrrolidine, 1-(m-methoxycinnamoyl)-",crown root,stem,8.08737797320314E-06,0.000114282062170047
+Flavokavain C,crown root,stem,1.03892783790952E-05,0.000114282062170047
+Pinostrobin,crown root,stem,1.03892783790952E-05,0.000114282062170047
+Hispidin,crown root,stem,1.66616611338997E-05,0.000169179943821136
+"5,7-Dimethoxyflavanone",lateral root,stem,2.56378173225331E-05,0.000241727991898169
+Kavain,lateral root,stem,3.04859345015087E-05,0.000268276223613276
+"5-Hydroxy-4',7-dimethoxyflavanone",crown root,stem,3.76441277454696E-05,0.000310564053900125
+Flavokavain B,lateral root,stem,5.08894514919054E-05,0.000395141623348912
+Bornyl cinnamate,crown root,stem,5.56107071230765E-05,0.000407811852235895
+"5,7-Dimethoxyflavanone",crown root,stem,7.01607537638796E-05,0.000487432605096427
+Bornyl cinnamate,lateral root,stem,7.99034336206887E-05,0.000527362661896546
+Yangonin,crown root,stem,9.08845938056097E-05,0.000545307562833658
+"5-Hydroxy-4',7-dimethoxyflavanone",lateral root,stem,8.96714423646767E-05,0.000545307562833658
+"Dihydro-5,6-dehydrokawain",lateral root,stem,0.0002008812631957,0.00115288377138401
+Dihydromethysticin,lateral root,stem,0.00024204576312872,0.0012224797844118
+Desmethoxyyangonin,lateral root,stem,0.000239141400855815,0.0012224797844118
+Yangonin,lateral root,stem,0.000234457358902172,0.0012224797844118
+Flavokavain B,crown root,stem,0.000250052683175141,0.0012224797844118
+Hispidin,lateral root,stem,0.000425514740492807,0.00200599806232323
+"Dihydro-5,6-dehydrokawain",crown root,stem,0.000543196601290038,0.00247248108173397
+13-Tetradece-11-yn-1-ol,crown root,stem,0.00184750640503483,0.00812902818215326
+"Pyrrolidine, 1-(m-methoxycinnamoyl)-",lateral root,stem,0.00199510769485274,0.00849529728130846
+Linoelaidic acid,crown root,stem,0.00274302870155454,0.0113149933939125
+Dihydrokavain,crown root,stem,0.00388434388448398,0.014761027135204
+Flavokavain C#,crown root,lateral root,0.00391390871009198,0.014761027135204
+Pinostrobin#,crown root,lateral root,0.00391390871009198,0.014761027135204
+Hedycaryol#,crown root,lateral root,0.00485121611252411,0.0177877924125884
+δ-Cadinol#,crown root,lateral root,0.00582108930978125,0.0207671294294899
+Bornyl cinnamate#,crown root,lateral root,0.00627629421691524,0.0218018641219161
+Hydrocinnamic acid,lateral root,stem,0.00808654816901119,0.0273698553412686
+13-Tetradece-11-yn-1-ol,lateral root,stem,0.00962658654310486,0.031767735592246
+Palmitic Acid,crown root,stem,0.0109437963360606,0.0351976099907646
+Palmitic Acid,lateral root,stem,0.011199239542516,0.0351976099907646
+Hydrocinnamic acid,crown root,stem,0.0130259052815617,0.0399864999340963
+Linoelaidic acid,lateral root,stem,0.0173570240087827,0.0520710720263481
+Benzenepropanal,crown root,lateral root,0.0295701047667706,0.0838672709492048
+Desmethoxyyangonin,crown root,lateral root,0.0290898865411066,0.0838672709492048
+Flavokavain B,crown root,lateral root,0.0298618313228229,0.0838672709492048
+"Dihydro-5,6-dehydrokawain",crown root,lateral root,0.0325069813403365,0.0893941986859253
+α-epi-7-epi-5-Eudesmol,crown root,lateral root,0.037924564444247,0.102164132788584
+Kavain,crown root,lateral root,0.0391175808469774,0.102166610224168
+"5,7-Dimethoxyflavanone",crown root,lateral root,0.0394734630411558,0.102166610224168
+Pipermethystine,lateral root,stem,0.056985275565313,0.144654930281179
+"5-Hydroxy-4',7-dimethoxyflavanone",crown root,lateral root,0.0604966103434912,0.147880603061867
+(E)-N-Cinnamoylpiperidine,crown root,lateral root,0.0601223077009935,0.147880603061867
+Flavokawain A,crown root,stem,0.0760601004780807,0.182544241147394
+Linoelaidic acid,crown root,lateral root,0.0862304570420156,0.203257505884751
+Pipermethystine,crown root,stem,0.0945026547477226,0.218848253099989
+Dihydromethysticin,crown root,lateral root,0.0996985622171697,0.226900176080455
+13-Tetradece-11-yn-1-ol,crown root,lateral root,0.11794840996075,0.259486501913651
+Squalene,lateral root,stem,0.117203840931599,0.259486501913651
+Flavokawain A,lateral root,stem,0.128185483622519,0.277384980953648
+Dihydroalatamide,lateral root,stem,0.186792670122601,0.397687620261021
+Pipermethystine,crown root,lateral root,0.21442508391167,0.449271604386356
+Tetrahydro-11-methoxyiangonin,crown root,lateral root,0.227981506638216,0.47021185744132
+Dihydroalatamide,crown root,stem,0.256467663095063,0.520826638900742
+Hydrocinnamic acid,crown root,lateral root,0.291747515546808,0.583495031093616
+"Pyrrolidine, 1-(m-methoxycinnamoyl)-",crown root,lateral root,0.30595336886431,0.602773801344612
+Hispidin,crown root,lateral root,0.381782299968977,0.741106817586837
+Dihydroalatamide,crown root,lateral root,0.498694603799399,0.954024459442329
+Benzenepropanal,crown root,crown root,1,1
+Benzenepropanal,lateral root,lateral root,1,1
+Hydrocinnamic acid,crown root,crown root,1,1
+Hydrocinnamic acid,lateral root,lateral root,1,1
+Hedycaryol,crown root,crown root,1,1
+Hedycaryol,lateral root,lateral root,1,1
+δ-Cadinol,crown root,crown root,1,1
+δ-Cadinol,lateral root,lateral root,1,1
+α-epi-7-epi-5-Eudesmol,crown root,crown root,1,1
+α-epi-7-epi-5-Eudesmol,lateral root,lateral root,1,1
+Kavain,crown root,crown root,1,1
+Kavain,lateral root,lateral root,1,1
+Dihydromethysticin,crown root,crown root,1,1
+Dihydromethysticin,lateral root,lateral root,1,1
+Palmitic Acid,crown root,crown root,1,1
+Palmitic Acid,crown root,lateral root,0.848927984124236,1
+Palmitic Acid,lateral root,lateral root,1,1
+"Dihydro-5,6-dehydrokawain",crown root,crown root,1,1
+"Dihydro-5,6-dehydrokawain",lateral root,lateral root,1,1
+Linoelaidic acid,crown root,crown root,1,1
+Linoelaidic acid,lateral root,lateral root,1,1
+13-Tetradece-11-yn-1-ol,crown root,crown root,1,1
+13-Tetradece-11-yn-1-ol,lateral root,lateral root,1,1
+Dihydrokavain,crown root,crown root,1,1
+Dihydrokavain,crown root,lateral root,0.693733164892419,1
+Dihydrokavain,lateral root,lateral root,1,1
+Dihydrokavain,lateral root,stem,0.707967831305827,1
+Bornyl cinnamate,crown root,crown root,1,1
+Bornyl cinnamate,lateral root,lateral root,1,1
+Pipermethystine,crown root,crown root,1,1
+Pipermethystine,lateral root,lateral root,1,1
+Tetrahydro-11-methoxyiangonin,crown root,crown root,1,1
+Tetrahydro-11-methoxyiangonin,lateral root,lateral root,1,1
+Desmethoxyyangonin,crown root,crown root,1,1
+Desmethoxyyangonin,lateral root,lateral root,1,1
+"Pyrrolidine, 1-(m-methoxycinnamoyl)-",crown root,crown root,1,1
+"Pyrrolidine, 1-(m-methoxycinnamoyl)-",lateral root,lateral root,1,1
+Dihydroalatamide,crown root,crown root,1,1
+Dihydroalatamide,lateral root,lateral root,1,1
+Flavokavain C,crown root,crown root,1,1
+Flavokavain C,lateral root,lateral root,1,1
+Pinostrobin,crown root,crown root,1,1
+Pinostrobin,lateral root,lateral root,1,1
+Flavokawain A,crown root,crown root,1,1
+Flavokawain A,crown root,lateral root,0.716625393249002,1
+Flavokawain A,lateral root,lateral root,1,1
+Yangonin,crown root,crown root,1,1
+Yangonin,crown root,lateral root,0.895244082418562,1
+Yangonin,lateral root,lateral root,1,1
+"5-Hydroxy-4',7-dimethoxyflavanone",crown root,crown root,1,1
+"5-Hydroxy-4',7-dimethoxyflavanone",lateral root,lateral root,1,1
+Squalene,crown root,crown root,1,1
+Squalene,crown root,lateral root,0.533112462842655,1
+Squalene,crown root,stem,0.620885706855312,1
+Squalene,lateral root,lateral root,1,1
+"5,7-Dimethoxyflavanone",crown root,crown root,1,1
+"5,7-Dimethoxyflavanone",lateral root,lateral root,1,1
+Hispidin,crown root,crown root,1,1
+Hispidin,lateral root,lateral root,1,1
+Flavokavain B,crown root,crown root,1,1
+Flavokavain B,lateral root,lateral root,1,1
+(E)-N-Cinnamoylpiperidine,crown root,crown root,1,1
+(E)-N-Cinnamoylpiperidine,lateral root,lateral root,1,1
